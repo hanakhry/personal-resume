@@ -12,21 +12,26 @@ email: hna.khry@gmail.com
 website: www.hkhoury.dev
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 github_username: hanakhry
 linkedin_username: hna-khry
 
 # Additional icon links
-additional_links: []
+additional_links:
+  - title: Download CV
+    icon: fas fa-file-pdf
+    url: /files/HanaKhouryResume.pdf
 
 # About Section
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Hana and I'm a Senior Platform Engineer. I have extensive experience in Site Reliability Engineering, DevOps, and Infrastructure Engineering, with a focus on CI/CD & GitOps, Cloud & Orchestration, IaC & Automation, and Observability.
 
-  I have worked at various companies, gaining skills in team leadership, cross-functional observability design, and project consultation. I am proficient in AWS, GCP, Kubernetes, and several other technologies.
+  Continuously expanding ‘The Platform’ while developing a sustainable DevOps culture. 
+
+  Senior SRE with strong ability for self-learning, highly adaptive to fast-paced environments, team player, and detail-oriented.
 
 content:
   - title: Experience # Title for the section
@@ -40,31 +45,57 @@ content:
         quote: >
           Developing CNAPP & GenAI Incubation platform.
         description: | # this will include new lines to allow paragraphs
-          Responsibilities include developing CI/CD & GitOps pipelines, designing cross-functional observability solutions, consulting on cloud services, and integrating software stacks and microservices. Leveraging the latest tech stack while adhering to Cisco’s security standards.
+          - Developed CNAPP & GenAI Incubation platform.
+          - Dispatched into multiple venture teams at different development/production lifecycles.
+          - Delivered comprehensive CI/CD & GitOps development.
+          - Designed cross-functional observability solutions.
+          - Provided project consultation and cloud services.
+          - Managed stack architecture and cloud migrations.
+          - Integrated software stacks & microservices.
+          - Implemented IDP self-service workflows.
+          - Handled production on-call and incident mitigation.
 
       - layout: left
-        title: Micro Focus
-        link: https://www.microfocus.com
+        title: Micro Focus / OpenText
+        links:
+          - https://www.microfocus.com
+          - https://www.opentext.com
         sub_title: DevOps Engineer - SaaS R&D
         caption: July 2022 - January 2023
         description: | # this will include new lines to allow paragraphs
-          Developed CI/CD & GitOps pipelines, deployed IaC using AWS CDK, managed CaaS microservices on AWS ECS, and migrated on-prem infrastructure to AWS.
+          - Developed CI/CD & GitOps pipelines.
+          - Deployed Infrastructure as Code (IaC) on AWS using CDK with Python/TypeScript.
+          - Managed deployment of containerized microservices on AWS ECS.
+          - Migrated on-premise infrastructure to VMware Cloud (VMC) and AWS.
 
       - layout: left
-        title: Micro Focus
-        link: https://www.microfocus.com
+        title: Micro Focus / OpenText
+        links:
+          - https://www.microfocus.com
+          - https://www.opentext.com
         sub_title: Infrastructure Engineer - Cloud R&D
         caption: December 2019 - July 2022
         description: | # this will include new lines to allow paragraphs
-          Served as ScrumMaster, automated cloud migration efforts, designed internal observability solutions, and developed internal cloud management platforms provisioning virtual servers for R&D and production.
+          - Served as ScrumMaster facilitating daily scrum, sprint planning, and retrospectives.
+          - Automated cloud migration efforts.
+          - Designed internal observability solutions for public cloud and middleware services.
+          - Developed an internal cloud management platform using IaC/NodeJS.
+          - Provisioned and managed 5000 virtual servers for R&D and production environments.
 
       - layout: left
-        title: Micro Focus
-        link: https://www.microfocus.com
+        title: Micro Focus / OpenText
+        links:
+          - https://www.microfocus.com
+          - https://www.opentext.com
         sub_title: SRE - SaaS Production
         caption: December 2018 - December 2019
         description: | # this will include new lines to allow paragraphs
-          Developed self-healing cron-jobs, debugged telemetry, coordinated application upgrade processes, managed RCAs, and implemented preventive measures.
+          - Developed self-healing cron-jobs for on-prem infrastructure using C#/BASH.
+          - Debugged telemetry and mitigated real-time production outages.
+          - Coordinated application upgrade processes ensuring SLA compliance.
+          - Managed root cause analysis (RCA) and implemented preventive measures.
+          - Created and refined production runbooks.
+          - Individually developed a full-stack application for SaaS incident management.
 
       - layout: left
         title: Hewlett Packard Enterprise
@@ -72,7 +103,11 @@ content:
         sub_title: SRE - SaaS Production
         caption: December 2016 - December 2018
         description: | # this will include new lines to allow paragraphs
-          Deployed and monitored E2E telemetry, maintained infrastructure health, debugged outages, developed and automated self-heal workflows, and managed production incidents.
+          - Deployed and monitored end-to-end telemetry including metrics, logs, and traces.
+          - Maintained infrastructure health for VMware and cloud environments.
+          - Debugged outages and developed automated self-heal workflows.
+          - Managed production incidents and coordinated with R&D and stakeholders.
+          - Developed a full-stack application for centralized observability.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,7 +117,7 @@ content:
         caption: 2012 - 2016
         sub_title: B.Sc Computer Science & Information Systems
         description: | # this will include new lines to allow paragraphs
-          Gained key skills in teamwork and working to tight deadlines. Involved in extracurricular activities as a committee member of the Harvard Mountaineering Club.
+          Gained key skills in teamwork and working to tight deadlines. Involved in extracurricular activities as a committee member of the Landa Project - Tutoring new engineering students.
 
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
