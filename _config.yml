@@ -22,7 +22,7 @@ linkedin_username: hna-khry
 additional_links:
   - title: Download CV
     icon: fas fa-file-pdf
-    url: /files/HanaKhouryResume.pdf
+    url: /files/cv.pdf
 
 # About Section
 about_profile_image: images/profile.jpg
