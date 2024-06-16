@@ -27,7 +27,7 @@ additional_links:
 # About Section
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Hana and I'm a Senior Platform Engineer. I have extensive experience in Site Reliability Engineering, DevOps, and Infrastructure Engineering, with a focus on CI/CD & GitOps, Cloud & Orchestration, IaC & Automation, and Observability.
+  Hi, my name's Hana and I'm a Senior Platform Engineer. I have extensive experience in Site Reliability Engineering, DevOps, and Infrastructure Engineering, with a focus on CI/CD Automation & GitOps, Cloud Orchestration, IaC, and Observability.
 
   Continuously expanding ‘The Platform’ while developing a sustainable DevOps culture. 
 
