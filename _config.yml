@@ -12,7 +12,7 @@ email: hna.khry@gmail.com
 website: www.hkhoury.dev
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 github_username: hanakhry
@@ -45,15 +45,7 @@ content:
         quote: >
           Developing CNAPP & GenAI Incubation platform.
         description: | # this will include new lines to allow paragraphs
-          - Developed CNAPP & GenAI Incubation platform.
-          - Dispatched into multiple venture teams at different development/production lifecycles.
-          - Delivered comprehensive CI/CD & GitOps development.
-          - Designed cross-functional observability solutions.
-          - Provided project consultation and cloud services.
-          - Managed stack architecture and cloud migrations.
-          - Integrated software stacks & microservices.
-          - Implemented IDP self-service workflows.
-          - Handled production on-call and incident mitigation.
+          Responsibilities include developing CI/CD & GitOps pipelines, designing cross-functional observability solutions, consulting on cloud services, and integrating software stacks and microservices. Leveraging the latest tech stack while adhering to Cisco’s security standards.
 
       - layout: left
         title: Micro Focus / OpenText
@@ -63,10 +55,7 @@ content:
         sub_title: DevOps Engineer - SaaS R&D
         caption: July 2022 - January 2023
         description: | # this will include new lines to allow paragraphs
-          - Developed CI/CD & GitOps pipelines.
-          - Deployed Infrastructure as Code (IaC) on AWS using CDK with Python/TypeScript.
-          - Managed deployment of containerized microservices on AWS ECS.
-          - Migrated on-premise infrastructure to VMware Cloud (VMC) and AWS.
+          Developed CI/CD & GitOps pipelines, deployed IaC using AWS CDK, managed CaaS microservices on AWS ECS, and migrated on-prem infrastructure to AWS.
 
       - layout: left
         title: Micro Focus / OpenText
@@ -76,11 +65,7 @@ content:
         sub_title: Infrastructure Engineer - Cloud R&D
         caption: December 2019 - July 2022
         description: | # this will include new lines to allow paragraphs
-          - Served as ScrumMaster facilitating daily scrum, sprint planning, and retrospectives.
-          - Automated cloud migration efforts.
-          - Designed internal observability solutions for public cloud and middleware services.
-          - Developed an internal cloud management platform using IaC/NodeJS.
-          - Provisioned and managed 5000 virtual servers for R&D and production environments.
+          Served as ScrumMaster, automated cloud migration efforts, designed internal observability solutions, and developed internal cloud management platforms provisioning virtual servers for R&D and production.
 
       - layout: left
         title: Micro Focus / OpenText
@@ -90,12 +75,7 @@ content:
         sub_title: SRE - SaaS Production
         caption: December 2018 - December 2019
         description: | # this will include new lines to allow paragraphs
-          - Developed self-healing cron-jobs for on-prem infrastructure using C#/BASH.
-          - Debugged telemetry and mitigated real-time production outages.
-          - Coordinated application upgrade processes ensuring SLA compliance.
-          - Managed root cause analysis (RCA) and implemented preventive measures.
-          - Created and refined production runbooks.
-          - Individually developed a full-stack application for SaaS incident management.
+          Developed self-healing cron-jobs, debugged telemetry, coordinated application upgrade processes, managed RCAs, and implemented preventive measures.
 
       - layout: left
         title: Hewlett Packard Enterprise
@@ -103,11 +83,7 @@ content:
         sub_title: SRE - SaaS Production
         caption: December 2016 - December 2018
         description: | # this will include new lines to allow paragraphs
-          - Deployed and monitored end-to-end telemetry including metrics, logs, and traces.
-          - Maintained infrastructure health for VMware and cloud environments.
-          - Debugged outages and developed automated self-heal workflows.
-          - Managed production incidents and coordinated with R&D and stakeholders.
-          - Developed a full-stack application for centralized observability.
+          Deployed and monitored end-to-end telemetry, maintained infrastructure health, debugged outages, developed and automated self-heal workflows, and managed production incidents.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
