@@ -1,5 +1,5 @@
 # Site
-repository: hanakhry/cv-site
+repository: hanakhry/personal-resume
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -22,12 +22,12 @@ linkedin_username: hna-khry
 additional_links:
   - title: Download CV
     icon: fas fa-file-pdf
-    url: /personal-resume/blob/master/Files/cv.pdf
+    url: https://www.dropbox.com/scl/fi/hjvb15e6z3s7dwvwb8beq/hkhouryCV.pdf?rlkey=abcyw87y4c30kebo5yucccuf2&st=daozgvef&dl=1
 
 # About Section
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Hana and I'm a Senior Platform Engineer. I have extensive experience in Site Reliability Engineering, DevOps, and Infrastructure Engineering, with a focus on CI/CD Automation & GitOps, Cloud Orchestration, IaC, and Observability.
+  Hi, my name's Hana and I'm a Senior Platform Engineer. I have extensive experience in Site Reliability Engineering, DevOps, and Infrastructure Engineering, with a focus on CI/CD & GitOps, Cloud & Orchestration, IaC & Automation, and Observability.
 
   Continuously expanding ‘The Platform’ while developing a sustainable DevOps culture. 
 
