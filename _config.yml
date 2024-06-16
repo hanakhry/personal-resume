@@ -22,7 +22,7 @@ linkedin_username: hna-khry
 additional_links:
   - title: Download CV
     icon: fas fa-file-pdf
-    url: /personal-resume/download.html
+    url: https://www.dropbox.com/scl/fi/hjvb15e6z3s7dwvwb8beq/hkhouryCV.pdf?rlkey=abcyw87y4c30kebo5yucccuf2&st=daozgvef&dl=1
 
 # About Section
 about_profile_image: images/profile.jpg
