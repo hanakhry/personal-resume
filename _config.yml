@@ -94,12 +94,27 @@ content:
         sub_title: B.Sc Computer Science & Information Systems
         description: | # this will include new lines to allow paragraphs
           Gained key skills in teamwork and working to tight deadlines. Involved in extracurricular activities as a committee member of the Landa Project - Tutoring new engineering students.
+      - layout: left
+        title: Montana State University
+        caption: 2022
+        sub_title: Student Fellowship in Entrepreneurship and Innovation
+        description: | # this will include new lines to allow paragraphs
+          Participated in a fellowship program focused on entrepreneurship and innovation, enhancing skills in leadership and business development.
 
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: AWS Certified Solutions Architect – Associate
+        caption: Amazon Web Services (AWS)
+      - layout: left
+        title: AWS Certified Developer – Associate
+        caption: Amazon Web Services (AWS)
+      - layout: left
+        title: AWS Certified SysOps Administrator – Associate
+        caption: Amazon Web Services (AWS)
+      - layout: left
+        title: AWS Certified DevOps Engineer – Professional
         caption: Amazon Web Services (AWS)
 
   - title: Skills # Title for the section
@@ -131,4 +146,3 @@ sass:
 plugins:
  - jekyll-seo-tag
  - jekyll-assets
-
