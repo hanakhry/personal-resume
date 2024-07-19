@@ -27,10 +27,10 @@ additional_links:
 # About Section
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Hana and I'm a Senior Platform Engineer. I have extensive experience in Site Reliability Engineering, DevOps, and Infrastructure Engineering, with a focus on CI/CD & GitOps, Cloud & Orchestration, IaC & Automation, and Observability.
+  Hi, my name's Hana and I'm a Senior Platform Engineer. I have extensive experience in Site Reliability Engineering, DevOps, and Infrastructure Automation;
+  with a focus on CI/CD, GitOps, Cloud Orchestration, IaC and Observability.
 
-  Continuously expanding ‘The Platform’ while developing a sustainable DevOps culture. 
-
+  I'm continuously expanding ‘The Engineering Platform’ while building a sustainable DevOps culture.
   Senior SRE with strong ability for self-learning, highly adaptive to fast-paced environments, team player, and detail-oriented.
 
 content:
@@ -48,7 +48,7 @@ content:
           Responsibilities include developing CI/CD & GitOps pipelines, designing cross-functional observability solutions, consulting on cloud services, and integrating software stacks and microservices. Leveraging the latest tech stack while adhering to Cisco’s security standards.
 
       - layout: left
-        title: Micro Focus / OpenText
+        title: Micro Focus (OpenText)
         links:
           - https://www.microfocus.com
           - https://www.opentext.com
@@ -58,7 +58,7 @@ content:
           Developed CI/CD & GitOps pipelines, deployed IaC using AWS CDK, managed CaaS microservices on AWS ECS, and migrated on-prem infrastructure to AWS.
 
       - layout: left
-        title: Micro Focus / OpenText
+        title: Micro Focus (OpenText)
         links:
           - https://www.microfocus.com
           - https://www.opentext.com
@@ -68,7 +68,7 @@ content:
           Served as ScrumMaster, automated cloud migration efforts, designed internal observability solutions, and developed internal cloud management platforms provisioning virtual servers for R&D and production.
 
       - layout: left
-        title: Micro Focus / OpenText
+        title: Micro Focus (OpenText)
         links:
           - https://www.microfocus.com
           - https://www.opentext.com
